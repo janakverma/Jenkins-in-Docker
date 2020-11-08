@@ -1,0 +1,7 @@
+- job:
+        name: job1
+        description: 'job defination 1'
+        project-type: freestyle
+        builders:
+                - shell: 'ls -la'
+

@@ -1,0 +1,12 @@
+matrix-auth
+git
+workflow-aggregator
+workflow-multibranch
+build-monitor-plugin
+groovy
+buildtriggerbadge
+role-strategy:2.7.0
+docker-build-publish
+build-pipeline-plugin
+postbuildscript
+docker-plugin

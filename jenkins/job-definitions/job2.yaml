@@ -1,0 +1,11 @@
+- job:
+        name: job2
+        description: "Job defination 2"
+        parameters: 
+            - choice: 
+                name: terraform command 
+                choices:
+                        - terraform plan
+                        - terraform apply
+                        - terraform destroy
+
